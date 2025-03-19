@@ -1,4 +1,4 @@
-### Mac_Address_Changer
+### Network Scanner
 
 #### Note: This code works Linux OS only
 
@@ -22,4 +22,4 @@ How to run
 
 1. Download this Repository 
 2. Extract the Respository to the folder of your choice
-3. Open terminal in that folder type python network_scanner.py --help
+3. Open terminal in that folder type python net_scanner.py --help
